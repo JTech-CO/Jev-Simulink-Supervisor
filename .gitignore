@@ -1,0 +1,6 @@
+logs/*
+!logs/.gitkeep
+*.asv
+*.m~
+slprj/
+*.slxc
